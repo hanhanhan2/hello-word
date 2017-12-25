@@ -1,2 +1,2 @@
-# hello-word
+# FIGHT!
 just first repository
